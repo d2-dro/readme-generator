@@ -28,6 +28,6 @@
    node index.js
 ```
  ## Questions
- If you have any questions about the repo, contact me at [d2-dro](https://github.com/d2-dro) or by email: [du.derosier@gmail.com](mailto:du.derosier@gmail.com)
+ Direct questions about this repository to [d2-dro](https://github.com/d2-dro) or [du.derosier@gmail.com](mailto:du.derosier@gmail.com)
  ## Demonstration
  * Here is a demonstration video: https://drive.google.com/file/d/1sauSr2wks9J8Uakiv_QzeZ4mz3gX8FLz/view
