@@ -1,7 +1,7 @@
 # readme-generator
-  ![License](https://img.shields.io/badge/License-MIT-informational.svg)
+  ![License](https://img.shields.io/badge/License-BSD_3-informational.svg)
   ## Description
-  A command line application that can generate a readme file
+  A command line application that can create a readme markdown file
   
   ## Table of Contents
   * [Installation](#installation)
@@ -13,17 +13,17 @@
  
  ## Installation
  To install necessary dependencies run the following command:
-   node index.js
+   npm i inquirer@8.2.4
  ## Usage
- Contributions are welcome
+ All can contribute
  ## License
-    This project is licensed under the terms of the MIT license.
+    This project is licensed under the terms of the BSD_3 license.
     
  ## Contributing
- Contributions are welcome
+ All can contribute
  ## Tests
    node index.js
  ## Questions
  If you have any questions about the repo, contact me at [d2-dro](https://github.com/d2-dro) or by email: [du.derosier@gmail.com](mailto:du.derosier@gmail.com)
  ## Demonstration
- * undefined
+ * Here is a demonstration video: https://drive.google.com/file/d/1sauSr2wks9J8Uakiv_QzeZ4mz3gX8FLz/view
