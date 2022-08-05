@@ -56,7 +56,7 @@ function generateMarkdown(data) {
  ## Tests
    ${data.command}
  ## Questions
- If you have any questions about the repo, contact me at [${data.github}](https://github.com/${data.github}) or by email: [${data.email}](mailto:${data.email})
+ Direct questioins about this repository to [${data.github}](https://github.com/${data.github}) or [${data.email}](mailto:${data.email})
  ## Demonstration
  * ${getDemo(data.demo)}
 `;
