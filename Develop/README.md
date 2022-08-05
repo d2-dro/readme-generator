@@ -13,16 +13,20 @@
  
  ## Installation
  To install necessary dependencies run the following command:
+```
    npm i inquirer@8.2.4
+```
  ## Usage
- All can contribute
+ All can use
  ## License
     This project is licensed under the terms of the BSD_3 license.
     
  ## Contributing
  All can contribute
  ## Tests
+```
    node index.js
+```
  ## Questions
  If you have any questions about the repo, contact me at [d2-dro](https://github.com/d2-dro) or by email: [du.derosier@gmail.com](mailto:du.derosier@gmail.com)
  ## Demonstration
